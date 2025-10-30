@@ -24,4 +24,7 @@ I’m Aryan Kaushal, a passionate Software Developer and Computer Science underg
 ---
 [![](https://visitcount.itsvg.in/api?id=Aryankaushal82&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/Aryankaushal82/Aryankaushal82/blob/output/github-snake-dark.svg)
+
